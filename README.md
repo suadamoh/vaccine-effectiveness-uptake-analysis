@@ -1,1 +1,1 @@
-# Analyzing COVID-19 Vaccine Uptake and Health Outcomes
+# COVID-19 Vaccine Effectiveness and Uptake Analysis
